@@ -12,7 +12,7 @@ body{
 	align-items:center;
 	display:inline;
 }
-#summary{
+summary{
 	font-style:italic;
 	background-color:red;
 }
